@@ -18,21 +18,21 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Yuki Adisti" //namabot kalian
-global.ownername = "ᴹᴿ᭄ King Of Bear ×፝֟͜×" //nama kalian
+global.botname = "YANZ GTG🗿" //namabot kalian
+global.ownername = "ᴹᴿ᭄ Yanz ofc ×፝֟͜×" //nama kalian
 global.myweb ="https://apikey-bear3.herokuapp.com" //bebas asal jan hapus
-global.youtube = "https://www.youtube.com/channel/UCVSEzfCh6VYL3g9ixHnSqXQ" //bebas asal jan hapus
-global.github = "https://saipulanuar.github.io/" //bebas
+global.youtube = "https://www.youtube.com/channel/UCdTdvjr8-fSP2i_WBbCQjoA" //bebas asal jan hapus
+global.github = "https://Dapabot.github.io/" //bebas
 global.email = "drakipul1016@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.ownernomer = "6288279268363" // nomor wa kalian
-global.ownernomerr = "+6288279268363" //nmr wa kalian
+global.ownernomer = "48729759866" // nomor wa kalian
+global.ownernomerr = "+48729759866" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["6288279268363","6288279268363","6288279268363"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© YukiBot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh KingOfBear' //sticker wm ganti nama kalian
+global.owner = ["48729759866","48729759866","48699532476"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© YanzBot-Mdོ' //sticker wm ubah
+global.author = 'Di Buat Oleh YanzOfc' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
@@ -42,7 +42,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    sukses: '🤗Done, Oke Desu~',
+    sukses: '🤗Done, jnck🗿~',
     admin: 'Perintah Ini Hanya Bisa Digunakan Oleh Admin !',
     botAdmin: 'Perintah Ini Hanya Bisa Digunakan Ketika Bot Menjadi Admin !',
     owner: 'Perintah Ini Hanya Bisa Digunakan Oleh Owner !',
@@ -52,7 +52,7 @@ global.mess = {
     errtoimg: 'Maaf Saat Ini Belum Support Sticker Gif !',
     wait: '⏳ Sedang Di Proses',
 	lockCmd: 'Fitur Tidak Diaktifkan Oleh Owner!',
-	example1: 'Selamat Datang @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
+	example1: 'Selamat Datang @user Di Group @subject\n\nNote :\n1. @user (Mention User Join)\n2. @bio (Get Bio User Join)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)\n5. @subject (Group Name)'
 }
 
 let file = require.resolve(__filename)
